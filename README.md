@@ -12,7 +12,7 @@
 [![Proyecto 1](barkomanagericon.png)](https://github.com/Barcodehub/BarkoManager)
 **[BarkoManager](https://github.com/Barcodehub/BarkoManager)** - Aplicación práctica de administración de rendimiento y un ejemplo educativo que demuestra el uso de la concurrencia y los hilos en Java a través de una simulación gráfica de un restaurante.
 
-[![Proyecto 2](https://ruta/a/imagen-proyecto-2.png)](https://github.com/angeldev07/semilleros-front)
+[![Proyecto 2](semilleroicon.png)](https://github.com/angeldev07/semilleros-front)
 **[BarkoManager](https://github.com/angeldev07/semilleros-front)** - Repositorio dedicado al frontend del proyecto semilleros UFPS.
 
 [![Proyecto 3](https://ruta/a/imagen-proyecto-3.png)](https://github.com/Barcodehub/biblioproject)
