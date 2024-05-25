@@ -21,7 +21,7 @@
 
 **[semilleros-front](https://github.com/angeldev07/semilleros-front)** - Repositorio dedicado al frontend del proyecto semilleros UFPS.
 
-**[BiblioProject](https://github.com/Barcodehub/biblioproject)** - Aplicación web de gestión de libros de biblioteca con implementación de Inteligencia Artificial en la elaboración de un chatbot funcional.
+**[Chatbot-with-Python](https://github.com/Barcodehub/Chatbot-with-Python)** - Aplicación web de gestión de libros de biblioteca con implementación de Inteligencia Artificial en la elaboración de un chatbot funcional.
 
 ---
 ### Estadísticas de GitHub 📊
