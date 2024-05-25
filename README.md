@@ -9,7 +9,7 @@
 
 ### Proyectos Destacados 💻
 
-[![Proyecto 1](barkomanagericon.png)](https://github.com/Barcodehub/BarkoManager)
+[![Proyecto 1](barkomanagericon.png)](https://github.com/Barcodehub/BarkoManager =100x20)
 **[BarkoManager](https://github.com/Barcodehub/BarkoManager)** - Aplicación práctica de administración de rendimiento y un ejemplo educativo que demuestra el uso de la concurrencia y los hilos en Java a través de una simulación gráfica de un restaurante.
 
 [![Proyecto 2](https://ruta/a/imagen-proyecto-2.png)](https://github.com/angeldev07/semilleros-front)
