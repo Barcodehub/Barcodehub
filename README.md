@@ -8,30 +8,30 @@
 </article>
 
 ---
-### Habilidades 🛠️
+### Skills 🛠️
 
 <img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
 
 
 
 ---
-### Proyectos Destacados 💻
+### Featured Projects 💻
 
-**[BarkoManager](https://github.com/Barcodehub/BarkoManager)** - Aplicación práctica de administración de rendimiento y un ejemplo educativo que demuestra el uso de la concurrencia y los hilos en Java a través de una simulación gráfica de un restaurante.
+**[BarkoManager](https://github.com/Barcodehub/BarkoManager)** - Practical application of performance administration and an educational example demonstrating the use of concurrency and threads in Java through a graphical simulation of a restaurant.
 
-**[semilleros-front](https://github.com/angeldev07/semilleros-front)** - Repositorio dedicado al frontend del proyecto semilleros UFPS.
+**[semilleros-front](https://github.com/angeldev07/semilleros-front)** - Repository dedicated to the frontend of the UFPS seedbeds project.
 
-**[Chatbot-with-Python](https://github.com/Barcodehub/Chatbot-with-Python)** - Aplicación web de gestión de libros de biblioteca con implementación de Inteligencia Artificial en la elaboración de un chatbot funcional.
+**[Chatbot-with-Python](https://github.com/Barcodehub/Chatbot-with-Python)** - Web application for library book management with implementation of Artificial Intelligence in the development of a functional chatbot.
 
 ---
-### Estadísticas de GitHub 📊
+### GitHub Statistics 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barcodehub&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barcodehub&layout=compact&theme=radical)
 
 ---
-### Contáctame 📫
+### Contact Me 📫
 
 <p align="center">
 
