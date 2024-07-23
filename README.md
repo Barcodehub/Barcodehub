@@ -4,7 +4,7 @@
 
 <p align="center" dir="auto">
     <i> I'm Brayan Barco.<br>
-Greetings! I am a passionate programmer seeking new opportunities in the world of software development. My main focus has been web development, with experience in the Spring Boot and Flask frameworks.<br>
+Greetings! I am a passionate programmer seeking new opportunities in the world of software development. My main focus has been web development, with experience in the NodeJS and Flask frameworks.<br>
     </i><br>
     
 
