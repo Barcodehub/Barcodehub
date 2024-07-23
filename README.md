@@ -22,14 +22,13 @@ Greetings! I am a passionate programmer seeking new opportunities in the world o
 ---
 ### Featured Projects 💻
 
-**[SystemCoffee](https://github.com/Barcodehub/BarkoManager)** - Practical application of performance administration and an educational example demonstrating the use of concurrency and threads in Java through a graphical simulation of a restaurant.
+**[SystemCoffee](https://github.com/Barcodehub/CoffeeFlask)** - Web Application for Café Management, offering user administration, reservation system, menu management, sales invoicing, and role-based access control. Allows administrators to easily modify site content.
 
 **[semilleros-front](https://github.com/angeldev07/semilleros-front)** - Repository dedicated to the frontend of the UFPS seedbeds project.
 
-**[SystemCoffee](https://github.com/Barcodehub/CoffeeFlask)** - Web Application for Café Management, offering user administration, reservation system, menu management, sales invoicing, and role-based access control. Allows administrators to easily modify site content.
-
 **[Chatbot-with-Python](https://github.com/Barcodehub/Chatbot-with-Python)** - Web application for library book management with implementation of Artificial Intelligence in the development of a functional chatbot.
 
+**[BarkoManager](https://github.com/Barcodehub/BarkoManager)** - Practical application of performance administration and an educational example demonstrating the use of concurrency and threads in Java through a graphical simulation of a restaurant.
 ---
 ### GitHub Statistics 📊
 
