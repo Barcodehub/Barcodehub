@@ -29,6 +29,7 @@ Greetings! I am a passionate programmer seeking new opportunities in the world o
 **[Chatbot-with-Python](https://github.com/Barcodehub/Chatbot-with-Python)** - Web application for library book management with implementation of Artificial Intelligence in the development of a functional chatbot.
 
 **[BarkoManager](https://github.com/Barcodehub/BarkoManager)** - Practical application of performance administration and an educational example demonstrating the use of concurrency and threads in Java through a graphical simulation of a restaurant.
+
 ---
 ### GitHub Statistics 📊
 
