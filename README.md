@@ -24,11 +24,19 @@ Greetings! I am a passionate programmer seeking new opportunities in the world o
 
 **[SystemCoffee](https://github.com/Barcodehub/CoffeeFlask)** - Web Application for Café Management, offering user administration, reservation system, menu management, sales invoicing, and role-based access control. Allows administrators to easily modify site content.
 
-**[semilleros-front](https://github.com/angeldev07/semilleros-front)** - Repository dedicated to the frontend of the UFPS seedbeds project.
+**[Node-recipe-app](https://github.com/Barcodehub/node-recipe-app)** - This is the backend service for the Recipe Explorer application. It provides a RESTful API for searching recipes, managing favorite recipes, and retrieving recipe details.
 
 **[Chatbot-with-Python](https://github.com/Barcodehub/Chatbot-with-Python)** - Web application for library book management with implementation of Artificial Intelligence in the development of a functional chatbot.
 
-**[BarkoManager](https://github.com/Barcodehub/BarkoManager)** - Practical application of performance administration and an educational example demonstrating the use of concurrency and threads in Java through a graphical simulation of a restaurant.
+**[Api-node-notes](https://github.com/Barcodehub/api-node-notes)** - Notes API is a RESTful backend service that allows users to manage notes. It provides endpoints for creating, reading, updating, and deleting notes.
+
+---
+
+### Team Projects 💻
+
+**[semilleros-front](https://github.com/angeldev07/semilleros-front)** - Repository Angular dedicated to the Frontend of the UFPS seedbeds project.
+
+**[SIREDSE-BE](https://github.com/JulianRivers/SIREDSE-BE)** - Repository Spring dedicated to the Backend of the UFPS seedbeds project.
 
 ---
 ### GitHub Statistics 📊
