@@ -28,7 +28,7 @@ Greetings! I am a passionate programmer seeking new opportunities in the world o
 
 **[Chatbot-with-Python](https://github.com/Barcodehub/Chatbot-with-Python)** - Web application for library book management with implementation of Artificial Intelligence in the development of a functional chatbot.
 
-**[Api-node-notes](https://github.com/Barcodehub/api-node-notes)** - Notes API is a RESTful backend service that allows users to manage notes. It provides endpoints for creating, reading, updating, and deleting notes.
+**[Node-JWT-Api-js](https://github.com/Barcodehub/node-jwt-api-js)** - REST API with Node.js, JWT, and PostgreSQL, handling authentication and roles for CRUD operations on products.
 
 ---
 
