@@ -29,39 +29,39 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
   </tr>
    <tr>
     <td>
+       <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" style="max-width: 100%;">
+      </a>
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E">
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" style="max-width: 100%;">
       </a>
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" style="max-width: 100%;">
       </a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" style="max-width: 100%;">
-      </a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" style="max-width: 100%;">
-      </a>
     </td>
     <td>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" style="max-width: 100%;">
+      </a>
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white">
         <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" style="max-width: 100%;">
       </a>
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" style="max-width: 100%;">
       </a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" style="max-width: 100%;">
-      </a>
     </td>
     <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" style="max-width: 100%;">
-      </a>
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" style="max-width: 100%;">
       </a>
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white">
         <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" style="max-width: 100%;">
       </a>
     </td>
   </tr>
@@ -102,7 +102,7 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
 
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=Barcodehub&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 53%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barcodehub&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barcodehub&layout=compact&theme=radical" alt="Top Languages" style="width: 40%;" />
 </div>
 
 
