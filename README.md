@@ -1,7 +1,9 @@
 <p align="center" dir="auto">
    <strong>Ad Maiorem Dei Gloriam ✞</strong>
 </p>
+
 <div align="center" dir="auto">
+   
 <p align="center" dir="auto">
     <i> I'm Brayan Barco.<br>
 Developer specializing in NodeJS and Flask. Passionate about building efficient and scalable applications.<br>
@@ -14,14 +16,21 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
 </div>
 
 ---
+<div align="center" dir="auto">
+   
 ### Skills 🛠️
 
-<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
 
+<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
+</div>
 
 
 ---
+<div align="center" dir="auto">
+   
 ### Featured Projects 💻
+</div>
+
 
 **[SystemCoffee](https://github.com/Barcodehub/CoffeeFlask)** - Web Application for Café Management, offering user administration, reservation system, menu management, sales invoicing, and role-based access control. Allows administrators to easily modify site content.
 
@@ -32,14 +41,18 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
 **[Node-JWT-Api-js](https://github.com/Barcodehub/node-jwt-api-js)** - REST API with Node.js, JWT, and PostgreSQL, handling authentication and roles for CRUD operations on products.
 
 ---
-
+<div align="center" dir="auto">
+   
 ### Team Projects 💻
+</div>
 
 **[semilleros-front](https://github.com/angeldev07/semilleros-front)** - Repository Angular dedicated to the Frontend of the UFPS seedbeds project.
 
 **[SIREDSE-BE](https://github.com/JulianRivers/SIREDSE-BE)** - Repository Spring dedicated to the Backend of the UFPS seedbeds project.
 
 ---
+<div align="center" dir="auto">
+   
 ### GitHub Statistics 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barcodehub&show_icons=true&theme=radical)
@@ -50,4 +63,7 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
 ⭐️ From [Brayan Alexander Barco](https://github.com/Barcodehub) 
 <p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3544ccdba13079b38b5b3f096b026ac01a77d7263762f291c4c9160a9588a9fb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4a756c69616e526976657273266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/3544ccdba13079b38b5b3f096b026ac01a77d7263762f291c4c9160a9588a9fb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4a756c69616e526976657273266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="profile views" data-canonical-src="https://komarev.com/ghpvc/?username=JulianRivers&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
 </p>
+
 ---
+
+</div>
