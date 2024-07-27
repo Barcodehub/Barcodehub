@@ -21,8 +21,53 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
 ### Skills 🛠️
 
 
-<img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> <img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> <img title="JavaScript" alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img title="Typescript" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> <img title="Angular" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"> <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
-</div>
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td><strong>Front End</strong></td>
+    <td><strong>Backend</strong></td>
+  </tr>
+   <tr>
+    <td>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" style="max-width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" style="max-width: 100%;">
+      </a>
+    </td>
+    <td>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" style="max-width: 100%;">
+      </a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white">
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" style="max-width: 100%;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 
 ---
@@ -55,9 +100,11 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
    
 ### GitHub Statistics 📊
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barcodehub&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Barcodehub&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 53%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barcodehub&layout=compact&theme=radical" alt="Top Languages" style="width: 45%;" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Barcodehub&layout=compact&theme=radical)
 
 ---
 ⭐️ From [Brayan Alexander Barco](https://github.com/Barcodehub) 
