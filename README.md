@@ -79,11 +79,12 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
 
 **[SystemCoffee](https://github.com/Barcodehub/CoffeeFlask)** - Web Application for Café Management, offering user administration, reservation system, menu management, sales invoicing, and role-based access control. Allows administrators to easily modify site content.
 
-**[Node-recipe-app](https://github.com/Barcodehub/node-recipe-app)** - This is the backend service for the Recipe Explorer application. It provides a RESTful API for searching recipes, managing favorite recipes, and retrieving recipe details.
+**[Microservicios-node-jwt](https://github.com/Barcodehub/microservicios-node-jwt-api)** - The system consists of three main services: an API Gateway, an Authentication Service, and a Product Service.
 
-**[Chatbot-with-Python](https://github.com/Barcodehub/Chatbot-with-Python)** - Web application for library book management with implementation of Artificial Intelligence in the development of a functional chatbot.
+**[Content-request-node](https://github.com/Barcodehub/content-request-node)** - User-authentication and management of posts, comments, likes, friend requests, and more.
 
-**[Node-JWT-Api-js](https://github.com/Barcodehub/node-jwt-api-js)** - REST API with Node.js, JWT, and PostgreSQL, handling authentication and roles for CRUD operations on products.
+**[Reels-stories-node](https://github.com/Barcodehub/reels-stories-node)** - Creation and management of stories/statuses and reels, using Cloudinary for multimedia file storage.
+
 
 ---
 <div align="center" dir="auto">
