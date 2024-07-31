@@ -85,17 +85,6 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
 
 **[Reels-stories-node](https://github.com/Barcodehub/reels-stories-node)** - Creation and management of stories/statuses and reels, using Cloudinary for multimedia file storage.
 
-
----
-<div align="center" dir="auto">
-   
-### Team Projects 💻
-</div>
-
-**[semilleros-front](https://github.com/angeldev07/semilleros-front)** - Repository Angular dedicated to the Frontend of the UFPS seedbeds project.
-
-**[SIREDSE-BE](https://github.com/JulianRivers/SIREDSE-BE)** - Repository Spring dedicated to the Backend of the UFPS seedbeds project.
-
 ---
 <div align="center" dir="auto">
    
