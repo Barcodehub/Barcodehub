@@ -77,13 +77,11 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
 </div>
 
 
-**[SystemCoffee](https://github.com/Barcodehub/CoffeeFlask)** - Web Application for Café Management, offering user administration, reservation system, menu management, sales invoicing, and role-based access control. Allows administrators to easily modify site content.
+**[SystemCoffee](https://github.com/Barcodehub/CoffeeFlask)** - Flask Full Stack Web Application for Café Management, offering user administration, reservation system, menu management, sales invoicing, and role-based access control. Allows administrators to easily modify site content. Built with Flask and mySql
 
-**[Microservicios-node-jwt](https://github.com/Barcodehub/microservicios-node-jwt-api)** - The system consists of three main services: an API Gateway, an Authentication Service, and a Product Service.
+**[ShipConnect](https://github.com/Barcodehub/ShipConnect)** - Facebook backend clone, ShipConnect is a social network with secure authentication, content sharing, social interactions, community management, real-time messaging, and privacy controls. Built with Node.js and MongoDB.
 
-**[Content-request-node](https://github.com/Barcodehub/content-request-node)** - User-authentication and management of posts, comments, likes, friend requests, and more.
-
-**[Reels-stories-node](https://github.com/Barcodehub/reels-stories-node)** - Creation and management of stories/statuses and reels, using Cloudinary for multimedia file storage.
+**[Movie Reservation System](https://github.com/Barcodehub/Movie-Reservation-Node)** - Movie Reservation System is a robust backend solution for managing cinema ticket bookings. Built with Node.js and MongoDB, it offers user authentication, movie and showtime management, seat reservation, and an admin dashboard.
 
 ---
 <div align="center" dir="auto">
