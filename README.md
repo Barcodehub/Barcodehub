@@ -10,7 +10,8 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
     </i><br>
     
 
-<a href="https://www.linkedin.com/in/brayanbarco/" target="_blank"><img src="https://camo.githubusercontent.com/73d7f9030632789d857cd7bb543d9cb9bada0672f246b6008258864452f17988/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">    [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:Alex.barco.maicol@gmail.com?subject=Asunto&body=Mensaje%20desde%20tu%20README)
+<a href="https://www.linkedin.com/in/brayanbarco/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-2874a6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> 
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:Alex.barco.maicol@gmail.com?subject=Asunto&body=Mensaje%20desde%20tu%20README)
 
 </p>
 </div>
@@ -88,15 +89,27 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
    
 ### GitHub Statistics 📊
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barcodehub&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 53%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barcodehub&layout=compact&theme=radical" alt="Top Languages" style="width: 40%;" />
+<details>
+<summary>Click Para Ver Estadísticas de Github <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
+<p align="center">
+  <a href="https://github.com/Barcodehub">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barcodehub&theme=transparent" />
+  </a>
+  <a href="https://github.com/Barcodehub">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barcodehub&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/Barcodehub">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barcodehub&theme=transparent" />
+  </a>
 </div>
+</p>
+</details>
+
 
 
 ---
 ⭐️ From [Brayan Alexander Barco](https://github.com/Barcodehub) 
-<p align="center" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3544ccdba13079b38b5b3f096b026ac01a77d7263762f291c4c9160a9588a9fb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4a756c69616e526976657273266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/3544ccdba13079b38b5b3f096b026ac01a77d7263762f291c4c9160a9588a9fb/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4a756c69616e526976657273266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="profile views" data-canonical-src="https://komarev.com/ghpvc/?username=JulianRivers&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Barcodehub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
