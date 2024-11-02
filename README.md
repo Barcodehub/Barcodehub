@@ -6,7 +6,7 @@
    
 <p align="center" dir="auto">
     <i> I'm Brayan Barco.<br>
-Developer specializing in NodeJS and Flask. Passionate about building efficient and scalable applications.<br>
+Developer specializing in Node.js with Express. Passionate about building efficient and scalable applications with solid knowledge in web development and cloud computing. .<br>
     </i><br>
     
 
@@ -18,55 +18,21 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
 
 ---
 <div align="center" dir="auto">
-   
-### Skills 🛠️
 
+### 🚀 Programming languages
 
-<table style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td><strong>Front End</strong></td>
-    <td><strong>Backend</strong></td>
-  </tr>
-   <tr>
-    <td>
-       <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" style="max-width: 100%;">
-      </a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" style="max-width: 100%;">
-      </a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E">
-        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" style="max-width: 100%;">
-      </a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" style="max-width: 100%;">
-      </a>
-    </td>
-    <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" style="max-width: 100%;">
-      </a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white" alt="Angular" style="max-width: 100%;">
-      </a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" alt="React" style="max-width: 100%;">
-      </a>
-    </td>
-    <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" style="max-width: 100%;">
-      </a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white" alt="Flask" style="max-width: 100%;">
-      </a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white">
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" style="max-width: 100%;">
-      </a>
-    </td>
-  </tr>
-</table>
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Barcodehub)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Barcodehub)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/Barcodehub)
+
+### 🛠 Technologies and Frameworks
+
+[![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/Barcodehub)
+[![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/Barcodehub)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Barcodehub)
+[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)](https://github.com/Barcodehub)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Barcodehub)
+
 
 
 
@@ -74,15 +40,36 @@ Developer specializing in NodeJS and Flask. Passionate about building efficient 
 ---
 <div align="center" dir="auto">
    
-### Featured Projects 💻
+### 🚀 Featured Projects 💻
 </div>
 
+---
 
-**[SystemCoffee](https://github.com/Barcodehub/CoffeeFlask)** - Flask Full Stack Web Application for Café Management, offering user administration, reservation system, menu management, sales invoicing, and role-based access control. Allows administrators to easily modify site content. Built with Flask and mySql
+#### ShipConnect: Social Network Application
+Complete Facebook-style social network platform deployed on AWS.
 
-**[ShipConnect](https://github.com/Barcodehub/ShipConnect)** - Facebook backend clone, ShipConnect is a social network with secure authentication, content sharing, social interactions, community management, real-time messaging, and privacy controls. Built with Node.js and MongoDB.
+- **🔒 Advanced Authentication**: Two-factor, Google OAuth, password recovery.
+- **📲 Social Network Essentials**: News feed, friend system, messaging, communities, events.
+- **🔧 Privacy Control**: Configurable privacy for posts, stories, reels.
+- **☁️ Cloud Multimedia**: Storing multimedia content in the cloud.
+- **🛡️ Security Measures**: CSRF protection, data sanitization, password hashing, rate limiting.
 
-**[Movie Reservation System](https://github.com/Barcodehub/Movie-Reservation-Node)** - Movie Reservation System is a robust backend solution for managing cinema ticket bookings. Built with Node.js and MongoDB, it offers user authentication, movie and showtime management, seat reservation, and an admin dashboard.
+[View Repository](https://github.com/Barcodehub/ShipConnect) • [Live Demo](https://github.com/Barcodehub/ShipConnect) 
+
+---
+
+#### SystemCoffee: A Cafe Management**  
+Complete web application for café management, deployed on Railway.
+
+- **🔒 Authentication**: Auto logout for inactivity.
+- **🗓️ Reservation & Menu Management**: Streamlined reservation system with customizable menus.
+- **📊 Sales Tracking**: Visualize sales history and invoice statuses.
+- **📝 Dynamic Content Editing**: Admin-controlled content updates.
+- **📈 Activity Log**: Staff activity tracking, improving management efficiency by 40%.
+
+[View Repository](https://github.com/Barcodehub/CoffeeFlask) • [Live Demo](https://systemcoffee.up.railway.app) 
+
+
 
 ---
 <div align="center" dir="auto">
