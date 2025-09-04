@@ -50,28 +50,47 @@ Recognition for performance above 86% at the national levelAWS &amp; Google cert
 ---
 
 #### ShipConnect: Social Network Application
-Complete Facebook-style social network platform deployed on AWS, featuring advanced authentication with two-factor, Google OAuth, and password recovery, core social networking essentials such as news feed, friend system, messaging, communities, and events, configurable privacy controls for posts, stories, and reels, cloud-based multimedia storage, and robust security measures including CSRF protection, data sanitization, password hashing, and rate limiting.
+Complete Facebook-style social network deployed on **AWS**.  
+- 🔒 Advanced authentication: 2FA, Google OAuth, password recovery  
+- 📲 Features: News feed, friends, messaging, communities, events  
+- 🔧 Privacy controls for posts, stories, reels  
+- ☁️ Cloud multimedia storage  
+- 🛡 Security: CSRF protection, data sanitization, password hashing, rate limiting  
 
 [View Repository](https://github.com/Barcodehub/ShipConnect) • [Arqui-explain](https://www.youtube.com/watch?v=c570DebxssA)  • [simple front](https://www.youtube.com/watch?v=c570DebxssA) 
 
 ---
 
 #### SystemCoffee: A Cafe Management**  
-Complete web application for café management, deployed on Railway, featuring secure authentication with auto logout for inactivity, a streamlined reservation system with customizable menus, sales tracking with visualization of history and invoice statuses, dynamic content editing fully controlled by administrators, and a comprehensive activity log for staff that improved management efficiency by 40%.
-
+- 🔒 Auto logout for inactivity  
+- 🗓️ Reservation system with customizable menus  
+- 📊 Sales tracking with history & invoices visualization  
+- 📝 Dynamic content editing (admin-controlled)  
+- 📈 Staff activity log → +40% management efficiency
+  
 [View Repository](https://github.com/Barcodehub/CoffeeFlask) • [Live Demo](https://www.youtube.com/watch?v=OsYlgKAi5ZA&t=1s) 
 
 ---
 
 #### Nest Stock Master**  
-Purchase order system with a modular architecture built using NestJS and PostgreSQL, featuring MercadoPago payment gateway integration, real-time WebSockets, a reversible change history, JWT-based security, and role-based access authentication.
+Purchase order system built with **NestJS + PostgreSQL**.  
+- 💳 MercadoPago payment gateway  
+- 🔄 Real-time WebSockets  
+- ⏪ Reversible change history  
+- 🔑 JWT security + role-based access  
 
 [View Repository](https://github.com/Barcodehub/products-crud-nest-prisma)
 
 ---
 
 #### Parking System API  
-Developed with Spring Boot and Spring Security using PostgreSQL, this API enables user authentication, vehicle registration, and data analytics for multi-partner parking systems. It features role-based access control (Admin/Partner), a simulated email microservice with RabbitMQ, complete vehicle history log, analytics endpoints (earnings reports, top vehicles, partner performance), JWT authentication, data validation, error handling, and detailed Postman/Swagger documentation.  
+API built with **Spring Boot + Spring Security + PostgreSQL**.  
+- 🔑 Role-based access (Admin/Partner)  
+- 📩 Email microservice with RabbitMQ  
+- 🚗 Complete vehicle history log  
+- 📊 Analytics: earnings, top vehicles, partner performance  
+- 🔒 JWT, validation, error handling  
+- 📄 Postman + Swagger documentation  
 
 [View Repository](https://github.com/Barcodehub/parking-system-spring)  
 
