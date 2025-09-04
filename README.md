@@ -6,7 +6,9 @@
    
 <p align="center" dir="auto">
     <i> I'm Brayan Barco.<br>
-Developer specializing in Node.js with Express. Passionate about building efficient and scalable applications with solid knowledge in web development and cloud computing. .<br>
+💻 Backend Developer with 3+ years of experience in Java (Spring Boot), Node.js (NestJS, Express), and cloud (AWS ; GCP). Strong expertise in Hexagonal Architecture, SOLID principles, Microservices, and DevOps automation. Skilled in secure development with JWT, OAuth2, 2FA, and cloud scaling. 
+
+Recognition for performance above 86% at the national levelAWS &amp; Google certified. .<br>
     </i><br>
     
 
@@ -21,19 +23,21 @@ Developer specializing in Node.js with Express. Passionate about building effici
 
 ### 🚀 Programming languages
 
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Barcodehub)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Barcodehub)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Barcodehub)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Barcodehub)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/Barcodehub)
 
 ### 🛠 Technologies and Frameworks
 
+[![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/Barcodehub)
 [![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/Barcodehub)
+[![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)](https://github.com/Barcodehub)
 [![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/Barcodehub)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Barcodehub)
 [![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)](https://github.com/Barcodehub)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Barcodehub)
-
-
 
 
 
@@ -46,32 +50,34 @@ Developer specializing in Node.js with Express. Passionate about building effici
 ---
 
 #### ShipConnect: Social Network Application
-Complete Facebook-style social network platform deployed on AWS.
+Complete Facebook-style social network platform deployed on AWS, featuring advanced authentication with two-factor, Google OAuth, and password recovery, core social networking essentials such as news feed, friend system, messaging, communities, and events, configurable privacy controls for posts, stories, and reels, cloud-based multimedia storage, and robust security measures including CSRF protection, data sanitization, password hashing, and rate limiting.
 
-- **🔒 Advanced Authentication**: Two-factor, Google OAuth, password recovery.
-- **📲 Social Network Essentials**: News feed, friend system, messaging, communities, events.
-- **🔧 Privacy Control**: Configurable privacy for posts, stories, reels.
-- **☁️ Cloud Multimedia**: Storing multimedia content in the cloud.
-- **🛡️ Security Measures**: CSRF protection, data sanitization, password hashing, rate limiting.
-
-[View Repository](https://github.com/Barcodehub/ShipConnect) • [Live Demo](https://github.com/Barcodehub/ShipConnect) 
+[View Repository](https://github.com/Barcodehub/ShipConnect) • [Arqui-explain](https://www.youtube.com/watch?v=c570DebxssA)  • [simple front](https://www.youtube.com/watch?v=c570DebxssA) 
 
 ---
 
 #### SystemCoffee: A Cafe Management**  
-Complete web application for café management, deployed on Railway.
+Complete web application for café management, deployed on Railway, featuring secure authentication with auto logout for inactivity, a streamlined reservation system with customizable menus, sales tracking with visualization of history and invoice statuses, dynamic content editing fully controlled by administrators, and a comprehensive activity log for staff that improved management efficiency by 40%.
 
-- **🔒 Authentication**: Auto logout for inactivity.
-- **🗓️ Reservation & Menu Management**: Streamlined reservation system with customizable menus.
-- **📊 Sales Tracking**: Visualize sales history and invoice statuses.
-- **📝 Dynamic Content Editing**: Admin-controlled content updates.
-- **📈 Activity Log**: Staff activity tracking, improving management efficiency by 40%.
-
-[View Repository](https://github.com/Barcodehub/CoffeeFlask) • [Live Demo](https://systemcoffee.up.railway.app) 
-
-
+[View Repository](https://github.com/Barcodehub/CoffeeFlask) • [Live Demo](https://www.youtube.com/watch?v=OsYlgKAi5ZA&t=1s) 
 
 ---
+
+#### Nest Stock Master**  
+Purchase order system with a modular architecture built using NestJS and PostgreSQL, featuring MercadoPago payment gateway integration, real-time WebSockets, a reversible change history, JWT-based security, and role-based access authentication.
+
+[View Repository](https://github.com/Barcodehub/products-crud-nest-prisma)
+
+---
+
+#### Parking System API  
+Developed with Spring Boot and Spring Security using PostgreSQL, this API enables user authentication, vehicle registration, and data analytics for multi-partner parking systems. It features role-based access control (Admin/Partner), a simulated email microservice with RabbitMQ, complete vehicle history log, analytics endpoints (earnings reports, top vehicles, partner performance), JWT authentication, data validation, error handling, and detailed Postman/Swagger documentation.  
+
+[View Repository](https://github.com/Barcodehub/parking-system-spring)  
+
+---
+
+
 <div align="center" dir="auto">
    
 ### GitHub Statistics 📊
