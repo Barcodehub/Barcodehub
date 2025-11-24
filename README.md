@@ -1,129 +1,253 @@
-<p align="center" dir="auto">
-   <strong>Ad Maiorem Dei Gloriam ✞</strong>
-</p>
+<div align="center">
 
-<div align="center" dir="auto">
-   
-<p align="center" dir="auto">
-    <i> I'm Brayan Barco.<br>
-💻 Backend Developer with 3+ years of experience in Java (Spring Boot), Node.js (NestJS, Express), and cloud (AWS ; GCP). Strong expertise in Hexagonal Architecture, SOLID principles, Microservices, and DevOps automation. Skilled in secure development with JWT, OAuth2, 2FA, and cloud scaling. 
+# 👋 Brayan Barco
+### Backend Java Spring Developer | Cloud Architect | Microservices Specialist
 
-Recognition for performance above 86% at the national levelAWS &amp; Google certified. .<br>
-    </i><br>
-    
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Backend+Java+Spring+Developer;3%2B+Years+Building+Scalable+Systems;AWS+%26+Cloud+Solutions+Expert;Microservices+%26+Hexagonal+Architecture" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/brayanbarco/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-2874a6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"> 
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>](mailto:Alex.barco.maicol@gmail.com?subject=Asunto&body=Mensaje%20desde%20tu%20README)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayanbarco/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alex.barco.maicol@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Barcodehub)
 
-</p>
-</div>
-
----
-<div align="center" dir="auto">
-
-### 🚀 Programming languages
-
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/Barcodehub)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/Barcodehub)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/Barcodehub)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/Barcodehub)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/Barcodehub)
-
-### 🛠 Technologies and Frameworks
-
-[![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/Barcodehub)
-[![Node](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/Barcodehub)
-[![NestJS](https://img.shields.io/badge/nestjs-black?style=for-the-badge&logo=nestjs)](https://github.com/Barcodehub)
-[![Express](https://img.shields.io/badge/express.js-black?style=for-the-badge&logo=express)](https://github.com/Barcodehub)
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Barcodehub)
-[![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)](https://github.com/Barcodehub)
-[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/Barcodehub)
-
-
-
----
-<div align="center" dir="auto">
-   
-### 🚀 Featured Projects 💻
 </div>
 
 ---
 
-#### ShipConnect: Social Network Application
-Complete Facebook-style social network deployed on **AWS**.  
-- 🔒 Advanced authentication: 2FA, Google OAuth, password recovery  
-- 📲 Features: News feed, friends, messaging, communities, events  
-- 🔧 Privacy controls for posts, stories, reels  
-- ☁️ Cloud multimedia storage  
-- 🛡 Security: CSRF protection, data sanitization, password hashing, rate limiting  
+## 🚀 About Me
 
-[View Repository](https://github.com/Barcodehub/ShipConnect) • [Arqui-explain](https://www.youtube.com/watch?v=c570DebxssA)  • [simple front](https://www.youtube.com/watch?v=c570DebxssA) 
+Backend Java Spring Developer with **3+ years of experience** building **scalable microservices architectures** using Spring Boot, AWS Cloud, and Hexagonal Architecture. Specialized in high-performance concurrent systems, reactive programming, and cloud-native solutions.
 
----
-
-#### SystemCoffee: A Cafe Management**  
-- 🔒 Auto logout for inactivity  
-- 🗓️ Reservation system with customizable menus  
-- 📊 Sales tracking with history & invoices visualization  
-- 📝 Dynamic content editing (admin-controlled)  
-- 📈 Staff activity log → +40% management efficiency
-  
-[View Repository](https://github.com/Barcodehub/CoffeeFlask) • [Live Demo](https://www.youtube.com/watch?v=OsYlgKAi5ZA&t=1s) 
+```yaml
+Current Focus:
+  - 🔧 Microservices with Spring Boot & Hexagonal Architecture
+  - ☁️ Cloud Solutions: AWS (S3, Cognito, SES, Lambda, EC2)
+  - 🏗️ Clean Architecture & SOLID Principles
+  - 🔒 Security: JWT, OAuth2, Spring Security
+  - 📊 Databases: PostgreSQL, MySQL, Oracle
+  - 🐰 Message Queues: RabbitMQ
+  - 🐳 DevOps: Docker, CI/CD
+```
 
 ---
 
-#### Nest Stock Master**  
-Purchase order system built with **NestJS + PostgreSQL**.  
-- 💳 MercadoPago payment gateway  
-- 🔄 Real-time WebSockets  
-- ⏪ Reversible change history  
-- 🔑 JWT security + role-based access  
+## 💼 Professional Experience
 
-[View Repository](https://github.com/Barcodehub/products-crud-nest-prisma)
+<table>
+<tr>
+<td width="50%">
+
+### 🏢 Backend Team Lead
+**Nelumbo Consultores** • *May 2025 - Present*
+
+- ⚡ Implemented Hexagonal Architecture with AWS services
+- 🔐 Built JWT authentication with Spring Security OAuth2
+- 📈 Improved API performance by 45% with optimized queries
+- 🐰 Developed RabbitMQ queue system for email processing
+- ✅ Achieved 80% test coverage with JUnit & Mockito
+
+</td>
+<td width="50%">
+
+### 💻 Backend Java Developer
+**Bomberos Villa del Rosario** • *Feb 2025 - Jun 2025*
+
+- 🔌 Developed biometric microservice with Socket TCP/IP
+- 📍 Integrated Google Maps API (50+ data points)
+- 🗄️ Migrated from H2 to MySQL for production
+- 🐳 Deployed with Docker on Fedora
+- 🎯 Optimized access control by 99%
+
+</td>
+</tr>
+</table>
 
 ---
 
-#### Parking System API  
-API built with **Spring Boot + Spring Security + PostgreSQL**.  
-- 🔑 Role-based access (Admin/Partner)  
-- 📩 Email microservice with RabbitMQ  
-- 🚗 Complete vehicle history log  
-- 📊 Analytics: earnings, top vehicles, partner performance  
-- 🔒 JWT, validation, error handling  
-- 📄 Postman + Swagger documentation  
+## 🛠️ Tech Stack
 
-[View Repository](https://github.com/Barcodehub/parking-system-spring)  
+<div align="center">
 
----
+### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-<div align="center" dir="auto">
-   
-### GitHub Statistics 📊
+### Databases & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-<details>
-<summary>Click Para Ver Estadísticas de Github <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </summary>
-<p align="center">
-  <a href="https://github.com/Barcodehub">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barcodehub&theme=transparent" />
-  </a>
-  <a href="https://github.com/Barcodehub">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barcodehub&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/Barcodehub">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barcodehub&theme=transparent" />
-  </a>
+### Testing & Architecture
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge)
+![Hexagonal](https://img.shields.io/badge/Hexagonal_Architecture-4A90E2?style=for-the-badge)
+
 </div>
-</p>
-</details>
-
-
 
 ---
-⭐️ From [Brayan Alexander Barco](https://github.com/Barcodehub) 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Barcodehub&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Year | Link |
+|--------------|--------|------|------|
+| 🎓 Software Design and Architecture | University of Alberta | 2025 | [View](https://coursera.org/share/a0f497ced33f7ae79103533b0d4dff33) |
+| ⚡ Parallel, Concurrent Programming in Java | Rice University | 2025 | [View](https://coursera.org/share/eee75ffce2f2bcfca6dd40e62352fa2e) |
+| ☁️ AWS Cloud Architecting | Amazon Web Services | 2024 | [View](https://www.credly.com/badges/7951c777-4345-4062-b5d8-77b5a73008e8/public_url) |
+| 🚀 AWS Cloud Developing | Amazon Web Services | 2024 | [View](https://www.credly.com/badges/9d94790c-81d6-47fd-8e12-21cd79383983/public_url) |
+| 🔴 Oracle Cloud Infrastructure I & II | Oracle | 2024 | [View](https://drive.google.com/drive/folders/1pT7sRvg7enTPMuj24rYErZvGoB_-TwzX) |
+| 🛡️ Google Cybersecurity | Google | 2023 | [View](https://www.credly.com/badges/ecec1e5d-2d1a-4938-885f-88776e85a49d/public_url) |
+| 🗄️ Oracle Database Foundations & Programming | Oracle | 2023 | [View](https://drive.google.com/drive/folders/1hmyKl51qtbnih2Ee8l44ulu_W37kAwMF) |
+
+</div>
 
 ---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Enterprise Product Management
+**Hexagonal Architecture • AWS Cloud**
+
+Complete enterprise system with AWS services integration:
+- ☁️ AWS S3, Cognito, SES integration
+- 🔐 Spring Security OAuth2
+- 📊 OpenAPI documentation
+- ✅ 80% test coverage
+
+[View Repo →](https://github.com/Barcodehub/project-s3-cognito-ses)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Parking System
+**Multi-tenant Architecture**
+
+Advanced parking management with:
+- 🔑 JWT multi-device authentication
+- 👥 Role-based access control
+- 🐰 RabbitMQ email service
+- 📈 Analytics & reporting
+
+[View Repo →](https://github.com/Barcodehub/parking-system)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🦁 Zoo Management API
+**RESTful Enterprise System**
+
+Complete zoo management with:
+- 🔒 JWT authentication
+- 📖 Swagger documentation
+- 🧪 SonarLint quality checks
+- 🏛️ Clean Architecture
+
+[View Repo →](https://github.com/Barcodehub/Zoo-System)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Order Management
+**NestJS Microservices**
+
+Modern order system with:
+- 💳 MercadoPago integration
+- 🔄 Prisma ORM
+- 🐳 Docker deployment
+- 📝 Audit trail
+
+[View Repo →](https://github.com/Barcodehub/products-crud-nest-prisma)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Biometric Inspection System
+**Hybrid Microservices**
+
+Security system with:
+- 🔌 Socket TCP/IP communication
+- 📍 Google Maps API integration
+- 🐳 Docker on Fedora
+- 🎯 99% accuracy improvement
+
+[View Repo →](https://github.com/Barcodehub/riesgo_CBVVR)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 ShipConnect
+**Social Network Application**
+
+Full-stack social platform:
+- 💬 Real-time messaging (Socket.io)
+- 🔐 2FA authentication
+- ☁️ AWS EC2 deployment
+- 📸 Cloudinary integration
+
+[View Repo →](https://github.com/Barcodehub/ShipConnect) • [Demo →](https://www.youtube.com/watch?v=JwrIyts5bn0)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barcodehub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barcodehub&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Barcodehub&theme=tokyonight" alt="GitHub Streak" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barcodehub&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Brayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Barcodehub&theme=react-dark&hide_border=true)](https://github.com/Barcodehub)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Building scalable systems, one microservice at a time"
+
+![Profile Views](https://komarev.com/ghpvc/?username=Barcodehub&label=Profile%20Views&color=4A90E2&style=for-the-badge)
+
+**Ad Maiorem Dei Gloriam ✞**
+
+Made with ❤️ by [Brayan Barco](https://github.com/Barcodehub)
 
 </div>
