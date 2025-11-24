@@ -218,16 +218,6 @@ Full-stack social platform:
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Brayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Barcodehub&theme=react-dark&hide_border=true)](https://github.com/Barcodehub)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💡 "Building scalable systems, one microservice at a time"
