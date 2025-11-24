@@ -7,7 +7,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayanbarco/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Alex.barco.maicol@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Barcodehub)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://developerbb.netlify.app)
 
 </div>
 
@@ -180,7 +180,7 @@ Security system with:
 - 🐳 Docker on Fedora
 - 🎯 99% accuracy improvement
 
-[View Repo →](https://github.com/Barcodehub/riesgo_CBVVR)
+[View Repo →](https://github.com/Barcodehub/riesgo_CBVVR) • [Demo →](https://www.youtube.com/watch?v=-T7qdzQxfvI)
 
 </td>
 <td width="50%" valign="top">
