@@ -20,11 +20,10 @@ Backend Java Spring Developer with **3+ years of experience** building **scalabl
 ```yaml
 Current Focus:
   - 🔧 Microservices with Spring Boot & Hexagonal Architecture
-  - ☁️ Cloud Solutions: AWS (S3, Cognito, SES, Lambda, EC2)
+  - ☁️ Cloud Solutions: AWS (S3, Cognito, SES, Lambda, EC2, etc)
   - 🏗️ Clean Architecture & SOLID Principles
   - 🔒 Security: JWT, OAuth2, Spring Security
   - 📊 Databases: PostgreSQL, MySQL, Oracle
-  - 🐰 Message Queues: RabbitMQ
   - 🐳 DevOps: Docker, CI/CD
 ```
 
@@ -79,16 +78,6 @@ Current Focus:
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Databases & Messaging
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-### Testing & Architecture
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge)
-![Hexagonal](https://img.shields.io/badge/Hexagonal_Architecture-4A90E2?style=for-the-badge)
 
 </div>
 
@@ -222,7 +211,6 @@ Full-stack social platform:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barcodehub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barcodehub&layout=compact&langs_count=8&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Barcodehub&theme=tokyonight" alt="GitHub Streak" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barcodehub&theme=tokyonight" />
 
